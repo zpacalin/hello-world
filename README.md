@@ -1,4 +1,4 @@
 # hello-world
 tutorial repo
 
-altering branch readme-edits to practice committing
+this alters the branch readme-edits to practice committing
